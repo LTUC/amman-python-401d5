@@ -25,3 +25,6 @@ We will also be adding `permissions` to our Django apps so that users are allowe
 - Questions
 - Review + Demo
 - Lab Preview
+
+# Issues
+ - One Drive not working for some people
