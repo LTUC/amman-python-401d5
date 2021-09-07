@@ -6,10 +6,6 @@ For that we need `Authentication`. There are lots of ways to authenticate. We wi
 
 We've recently moved to a production-grade database. But how about the server? Today we'll move beyond Django's built in development server to a "real" server - Gunicorn.
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Difference between Authorization and Authentication
@@ -24,4 +20,6 @@ We've recently moved to a production-grade database. But how about the server? T
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
+- Reviews / Recaps
+- Authentication and JWT
+- Production Server

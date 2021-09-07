@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "docker"
+version = "0.1.0"
+description = ""
+authors = ["Dario Thornhill <dariothornhill@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+Django = "^3.2.7"
+djangorestframework = "^3.12.4"
+djangorestframework-simplejwt = "^4.8.0"
+django-cors-headers = "^3.8.0"
+gunicorn = "^20.1.0"
+whitenoise = "^5.3.0"
+psycopg2-binary = "^2.9.1"
+
+[tool.poetry.dev-dependencies]
+black = "^21.8b0"
+flake8 = "^3.9.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
