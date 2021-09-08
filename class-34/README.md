@@ -8,9 +8,6 @@ Hmm, maybe that's the wrong way of looking at it.
 
 How about... we need a host capable of serving our Docker container and let container handle the details!
 
-## Learning Objectives
-
-### Students will be able to
 
 #### Describe and Define
 
@@ -27,4 +24,8 @@ How about... we need a host capable of serving our Docker container and let cont
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
+- Questions?
+- Lecture / Demo / Review
+
+## Demo API
+-  https://github.com/dariothornhill/snacks-api
