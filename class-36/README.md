@@ -9,6 +9,6 @@ We'll look at how to tease out when a particular Data Structure or Algorithm is 
 We'll review Big O and consider what to do when we're using a core language feature with unknown space/time complexity.
 
 
-<!--## Today's Outline-->
-
-<!-- To Be Completed By Instructor -->
+- Recursion
+ - dfs
+- Level Order Traversal

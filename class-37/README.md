@@ -4,10 +4,6 @@ Django has the ability to render client side web pages nicely. But an increasing
 
 So it's time to dive back into JavaScript and learn React.
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Single Page Application (SPA)
@@ -25,4 +21,8 @@ So it's time to dive back into JavaScript and learn React.
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
+- Questions
+- Roadmap
+- React Hooks
+- Next JS
+- Tailwindcss
