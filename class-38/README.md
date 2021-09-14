@@ -4,10 +4,6 @@ Let's continue to deepen our understanding of ReactJS.
 
 Our goal is to start "thinking in React".
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Conditional rendering
@@ -22,4 +18,9 @@ Our goal is to start "thinking in React".
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
+- Job Search
+    - Make personal connections instead of using the easy apply button
+    - Show interest, don't simply fire an application and wait
+- Admin 
+    - Curriculum Update
+- Lecture / Demo

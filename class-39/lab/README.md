@@ -8,9 +8,7 @@ But now you'll be working with data from a remote API!
 
 ## Annoying Change Explanation
 
-The component names have changed slightly since last version. That is intentional. The concepts should map over from previous lab. E.g. `<Header> --> <CookieStandHeader>`. There's a reason for this, and it's not to pester you!
-
-Also, the layout of Cookie Stand Form has changed a bit. This WILL happen all the time as devs. We may as well get used to it now.
+The layout of Cookie Stand Form has changed a bit. Sometimes the client will change their mind. This WILL happen all the time as devs. We may as well get used to it now.
 
 ## Feature Tasks and Requirements
 
@@ -31,14 +29,15 @@ Also, the layout of Cookie Stand Form has changed a bit. This WILL happen all th
   - Component should continue to display Cookie Stand info as in version 2
   - Add a `delete` icon in each stand's location cell.
   - Clicking `delete` icon should immediately delete the Cookie Stand.
+    - In other words, it should NOT require a page refresh.
   - API should be informed that Cookie Stand was deleted.
 - Continue to style all components using TailwindCSS utility classes to match spec.
 
 ## Implementation Notes
 
 - Continue work in `cookie-stand-admin` repository
-- You will be supplied with an API URL by instructor
-- You will be supplied a username/password to use API
+- Ideally, you will have front end communicate with your API.
+  - If your API is not fully functional then communicate with instructor to get access to a test API.
 - **IMPORTANT** Complete version 1 & 2 tasks before moving on to version 3 features.
 - Pro tip: [Tailwind CSS Extension Pack](https://marketplace.visualstudio.com/items?itemName=andrewmcodes.tailwindcss-extension-pack){:target="_blank"}
 
@@ -54,7 +53,7 @@ Refer to [Lab Submission Instructions](../../../reference/submission-instruction
 
 ### Stretch Goals
 
-- Use your own API instead of supplied one.
+- Use your own **deployed** API instead of one running on localhost or that has beep supplied by instructor.
 - Add a confirmation dialog when deleting a Cookie Stand.
 - Add a list of Cookie Stand locations to `Overview` page.
   - There is some trickiness here regarding logged in status. Try to figure it out!
